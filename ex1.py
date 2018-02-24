@@ -1,4 +1,4 @@
-# Karl Siil
+# Karl Siil master of python
 print "Hello World"
 print "Hello Again"
 print "I like typing this."
